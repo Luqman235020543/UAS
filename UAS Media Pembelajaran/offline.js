@@ -1,0 +1,31 @@
+﻿{
+	"version": 1721315884,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/balok-sheet0.png",
+		"images/balokbatu-sheet0.png",
+		"images/awan-sheet0.png",
+		"images/awan2-sheet0.png",
+		"images/awan4-sheet0.png",
+		"images/awan6-sheet0.png",
+		"images/amogus-sheet0.png",
+		"images/amogus-sheet1.png",
+		"images/amogus-sheet2.png",
+		"images/amogus2-sheet0.png",
+		"images/amogusjalan-sheet0.png",
+		"images/amogusjalan2-sheet0.png",
+		"images/musuh-sheet0.png",
+		"images/musuh3mirror-sheet0.png",
+		"images/hati-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
